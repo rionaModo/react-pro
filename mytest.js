@@ -1,0 +1,1 @@
+pipe(fs.createWriteStream('./doodle.png'))
