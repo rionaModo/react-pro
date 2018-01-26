@@ -17,7 +17,7 @@ client/router.js
 ## 2.启动工程
 npm start
 
-访问例子：http://localhost:9051/foo
+访问例子：http://localhost:9000/about
 
 
 

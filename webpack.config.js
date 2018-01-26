@@ -4,7 +4,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, '/client/public/js'),
     filename: "bundle.js",
-    publicPath:'/js/'
+    publicPath:'/static/js/'
 
   },
   /*module: {
