@@ -6,10 +6,10 @@ server/config/default.js
 在配置文件中将端口port 的值进行修改
 
 # clinet ：
-## vue模板路径
+## react模板路径
 client/src/views/components
 ## 路由配置文件路径
-client/router.js
+client/router.jsx
 
 操作：
 ## 1.安装依赖
