@@ -1,8 +1,8 @@
-## softapp 是基于node、express、vue的单页面应用，采用mongodb作为数据库，是一个完整的具有操作业务的工程
+## softapp 是基于node、express、react的单页面应用，采用mongodb作为数据库，是一个完整的具有操作业务的工程
 ## 配置文件路径：
 server/config/default.js
 
-## 端口配置  ：默认9051
+## 端口配置  ：默认9000
 在配置文件中将端口port 的值进行修改
 
 # clinet ：
