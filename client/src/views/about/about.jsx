@@ -10,8 +10,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-           about
-        <div  className="tabel--info table">ssss</div>
+           aboutsss
+        <div  className="tabel--info table">aboutsss</div>
       </div>
     );
   }
